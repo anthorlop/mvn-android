@@ -8,12 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.google.android.exoplayer</groupId>
-      <artifactId>exoplayer</artifactId>
-      <version>r2.4.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>25.3.1</version>
@@ -26,9 +20,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.google.ads.interactivemedia.v3</groupId>
-      <artifactId>interactivemedia</artifactId>
-      <version>3.6.0</version>
+      <groupId>com.google.android.exoplayer</groupId>
+      <artifactId>exoplayer</artifactId>
+      <version>r2.4.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
